@@ -1,0 +1,4 @@
+import tensorflow as tf
+
+xs = tf.placeholder(tf.float32,[None,10])
+print ('I love Tensorflow！')
